@@ -1,0 +1,7 @@
+# VSCode
+.vscode/
+
+# Dynaconf Secrets
+.secrets.*
+
+
