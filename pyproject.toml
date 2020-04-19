@@ -12,6 +12,7 @@ homepage = ""
 [tool.poetry.dependencies]
 python = "^3.8"
 dynaconf = "^2.2.3"
+fastapi = {version = "^0.54.1", extras = ["all"]}
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
