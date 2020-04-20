@@ -12,8 +12,9 @@ homepage = ""
 [tool.poetry.dependencies]
 python = "^3.8"
 dynaconf = "^2.2.3"
-fastapi = {version = "^0.54.1", extras = ["all"]}
 gunicorn = "^20.0.4"
+flask = "^1.1.2"
+requests = "^2.23.0"
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
